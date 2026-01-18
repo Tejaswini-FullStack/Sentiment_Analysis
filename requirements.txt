@@ -1,0 +1,5 @@
+streamlit
+textblob
+nltk
+deep_translator
+joblib
